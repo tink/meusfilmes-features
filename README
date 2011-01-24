@@ -1,0 +1,13 @@
+Meus Filmes
+===========
+
+Um determinado cliente gostaria de organizar seus filmes de uma forma que pudesse ter uma lista de filmes que queria assistir e uma lista de filmes que já assistiu.
+
+Este projeto é onde são descritas as funcionalidades do projeto Meus Filmes.
+
+Na pasta features você encontra as funcionalidades descritas no formato Gherkin.
+
+O arquivo fluxo.pdf mostra o fluxo de telas básico desejado pelo nosso cliente fictício.
+
+
+http://tink.com.br/treinamentos
